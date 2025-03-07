@@ -1,14 +1,14 @@
 # PyCitySchools Analysis
 
-This project is an analysis of standardized test results from a city's school district. The goal was to aggregate and visualize data to help make informed strategic decisions about school budgets and priorities.
+This challenge is an analysis of standardized test results from a city's school district. The goal was to aggregate and visualize data to help make informed strategic decisions about school budgets and priorities.
 
 ## Background
 
 As the Chief Data Scientist for the city's school district, I was tasked with analyzing district-wide standardized test results, including math and reading scores, and various information on the schools. The insights derived from this data will assist the school board and mayor in making data-driven decisions.
 
-## Project Description
+## Challenge Description
 
-The project involves performing an in-depth analysis of the district's standardized test data and deriving key metrics to help identify trends in school performance. Specifically, the analysis includes:
+The challenge involves performing an in-depth analysis of the district's standardized test data and deriving key metrics to help identify trends in school performance. Specifically, the analysis includes:
 
 1. **District Summary**: A high-level snapshot of key metrics such as the total number of schools, total students, average scores, and overall passing percentages.
 2. **School Summary**: A breakdown of performance metrics for each individual school, including math and reading scores, passing percentages, and school budget.
